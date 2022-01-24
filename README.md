@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/54748438/150802906-942d5bfb-dc5b-4b67-
 ```sh
 git clone https://github.com/yogita10/Home_Rental_App.git
 ```
-2. Go to the clone folder
+2. Go to the cloned folder
 ```sh
 cd Home_Rental_App
 ```
